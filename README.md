@@ -5,8 +5,7 @@
   <img src="Poster.jpeg" alt="Poster" width="500">
   
   <h2>Tech Leads: Abhijit M S & K R DRUVA</h2>
-  <p>Chair: Naman<p>
-  <p>Vice Chair:Chirag SAthish</p>
+  
   
 </div>
 
