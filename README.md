@@ -4,8 +4,11 @@
 <div align="center">
   <img src="Poster.jpeg" alt="Poster" width="500">
   
-  <h2>Tech Leads: Abhijit M S & K R DRUVA</h2>
-  <h3>Chair: Naman</h3>
+  <h2>Tech Leads:</h2>
+  <h2> Abhijit M S</h2>
+  <h2>K R DRUVA</h2>
+  <h2>Adithi H</h2>  
+  
 </div>
 
 ## THEME: HACK AND CODE
@@ -23,17 +26,12 @@ We strongly encourage all participants to attempt the challenges independently b
 3. Provide a more rewarding sense of achievement
 
 ## Tech Members
-1. Adithi
-2. Arshad Khan
-3. Sai Nithin
-4. Nilesh Sriram
-5. Rithvik
-6. Rishi
-7. Anupam G
-8. Shree Hari
-9. Musharaf
-10. Rhea
-11. Salma Aslam
+1. Arshad Khan
+2. Musharaf
+3. Salma Aslam
+4. Rithvik
+5. Rishi
+
 
 
 
