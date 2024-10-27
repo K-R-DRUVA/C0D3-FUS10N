@@ -4,8 +4,10 @@
 <div align="center">
   <img src="Poster.jpeg" alt="Poster" width="500">
   
-  <h2>Tech Leads: Abhijit M S, K R DRUVA & Adithi H </h2>
-  
+  <h2>Tech Leads:</h2>
+  <h2> Abhijit M S</h2>
+  <h2>K R DRUVA</h2>
+  <h2>Adithi H</h2>  
   
 </div>
 
