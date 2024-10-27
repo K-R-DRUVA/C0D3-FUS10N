@@ -4,7 +4,7 @@
 <div align="center">
   <img src="Poster.jpeg" alt="Poster" width="500">
   
-  <h2>Tech Leads: Abhijit M S & K R DRUVA</h2>
+  <h2>Tech Leads: Abhijit M S, K R DRUVA & Adithi H </h2>
   
   
 </div>
@@ -24,17 +24,14 @@ We strongly encourage all participants to attempt the challenges independently b
 3. Provide a more rewarding sense of achievement
 
 ## Tech Members
-1. Adithi
-2. Arshad Khan
+1. Arshad Khan
+2. Nilesh Sriram
 3. Sai Nithin
-4. Nilesh Sriram
-5. Rithvik
-6. Rishi
-7. Anupam G
-8. Shree Hari
-9. Musharaf
-10. Rhea
-11. Salma Aslam
+4. Rithvik
+5. Rishi
+6. Musharaf
+7. Rhea
+8. Salma Aslam
 
 
 
