@@ -25,13 +25,11 @@ We strongly encourage all participants to attempt the challenges independently b
 
 ## Tech Members
 1. Arshad Khan
-2. Nilesh Sriram
-3. Sai Nithin
+2. Musharaf
+3. Salma Aslam
 4. Rithvik
 5. Rishi
-6. Musharaf
-7. Rhea
-8. Salma Aslam
+
 
 
 
