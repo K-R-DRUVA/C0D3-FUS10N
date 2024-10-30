@@ -1,21 +1,16 @@
-# <h1 align="center">C0D3-FUS10N</h1>
+![IEEE_FBanner2](https://github.com/user-attachments/assets/03e58d16-0882-452b-bb76-69cd029a0d0d)
 
+## Event Details
 
-<div align="center">
-  <img src="Poster.jpeg" alt="Poster" width="500">
-  
-  <h2>Tech Leads:</h2>
-  <h2> Abhijit M S</h2>
-  <h2>K R DRUVA</h2>
-  <h2>Adithi H</h2>  
-  
-</div>
+***Date***: October 4th 2024 (5 PM) - October 5th 2024 (5 PM) (Friday and Saturday)
 
-## THEME: HACK AND CODE
-### Event Date & Time : 4th October 2024 (5PM) to 5th October 2024 (5PM)
-### Number of CTF-Rounds : 4
-### Duration of Each-Round : 1 hour
-**CODE-FUSION** is a CTF/Hackathon Organized by IEEE Student Branch PESU ECC.
+***Description***: A 24-hour event designed to unite tech enthusiasts from various domains to tackle challenges focused on innovation and cybersecurity. The event will combine the collaborative spirit of hackathons with the competitive edge of Capture The Flag (CTF) competitions.
+
+***Number of CTF Rounds***: 4
+
+***Duration of Each Round***: 1 hour
+
+***Organized by***: IEEE Student Branch, PES University, Electronic City Campus
 
 
 ## Before Proceeding to Writeups
@@ -24,6 +19,11 @@ We strongly encourage all participants to attempt the challenges independently b
 1. Maximize your learning experience
 2. Develop your problem-solving skills
 3. Provide a more rewarding sense of achievement
+
+## Tech Leads 
+1. Abhijith M S
+2. K R Druva
+3. Adithi H
 
 ## Tech Members
 1. Arshad Khan
@@ -34,5 +34,5 @@ We strongly encourage all participants to attempt the challenges independently b
 6. Nilesh
 7. Sai Nithin
 
-
-
+## Contributions
+Feel free to contribute by submitting issues for any bugs or improvements. I hope this serves as a valuable resource for your learning. 
