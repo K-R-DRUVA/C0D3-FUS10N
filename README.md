@@ -33,6 +33,7 @@ We strongly encourage all participants to attempt the challenges independently b
 5. Rishi
 6. Nilesh
 7. Sai Nithin
+8. Rhea
 
 ## Contributions
 Feel free to contribute by submitting issues for any bugs or improvements. I hope this serves as a valuable resource for your learning. 
